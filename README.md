@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manuel Goicochea M.</h1>
-<h3 align="center">I am a Full-Stack Software Developer skilled in .NET, JavaScript, and Angular. My expertise includes designing integration architectures using the Top-down strategy and pattern. I am passionate about staying up-to-date with the latest technologies and continuously improving my skills.</h3>
+<h1 align="center">Hi 👋, I'm Manuel Goicochea</h1>
+<h3 align="center">I am a Full-Stack Software Developer skilled in .NET, JavaScript, and Angular & React. My expertise includes designing integration architectures using the Top-down strategy and pattern. I am passionate about staying up-to-date with the latest technologies and continuously improving my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgoicocheadev&label=Profile%20views&color=0e75b6&style=flat" alt="mgoicocheadev" /> </p>
 
