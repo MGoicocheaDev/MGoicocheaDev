@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgoicocheadev&label=Profile%20views&color=0e75b6&style=flat" alt="mgoicocheadev" /> </p>
 
-- 🌱 I’m currently learning **Azure DevOps,**
+- 🌱 I’m currently learning **Azure DevOps, Cosmos DB**
 
 - 👯 I’m looking to collaborate on **BackEnd projects in C# and React / Angular**
 
