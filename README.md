@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mgoicocheadev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mgdev](https://www.linkedin.com/in/mgdev)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mgdev]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
